@@ -1,0 +1,6 @@
+{
+    "helloworld": {
+        "type": "php",
+        "root": "/www/helloworld/"
+    }
+}
